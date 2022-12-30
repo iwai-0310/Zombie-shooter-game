@@ -1,0 +1,11 @@
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\bin\Debug\Zomblie Shoot-out.exe.config
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\bin\Debug\Zomblie Shoot-out.exe
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\bin\Debug\Zomblie Shoot-out.pdb
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\obj\Debug\Zombie Shoot out.csproj.AssemblyReference.cache
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\obj\Debug\Zombie Shoot out.csproj.SuggestedBindingRedirects.cache
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\obj\Debug\Zomblie_Shoot_out.Form1.resources
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\obj\Debug\Zomblie_Shoot_out.Properties.Resources.resources
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\obj\Debug\Zombie Shoot out.csproj.GenerateResource.cache
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\obj\Debug\Zombie Shoot out.csproj.CoreCompileInputs.cache
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\obj\Debug\Zomblie Shoot-out.exe
+C:\Users\chaze\source\repos\Zomblie Shoot-out\Zomblie Shoot-out\obj\Debug\Zomblie Shoot-out.pdb
